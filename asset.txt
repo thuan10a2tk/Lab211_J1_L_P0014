@@ -1,0 +1,4 @@
+A001,Samsung projector,White,500.0,3.2,9
+A002,Macbook pro 2016,Sliver,1000.0,2.2,4
+A003,Iphone 14,Blue,999.0,0.78,10
+A004,Apple Watch,Blue,399.0,0.31,120
